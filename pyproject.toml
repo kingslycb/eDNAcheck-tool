@@ -1,0 +1,15 @@
+[project]
+name = "edna-obistool"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas",
+    "requests",
+    "geopy",
+    "folium",
+    "shiny",
+    "debugpy>=1.8.14",
+    "openpyxl>=3.1.5",
+]
