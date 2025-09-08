@@ -102,4 +102,4 @@ For questions, feedback, or citation:
 Email: kingsly-chuo.beng@thuenen.de
 GitLab: 
 Suggested citation:
-"eDNAcheck: Assessing the plausibility of species detections in molecular biodiversity data." Beng, K.C., Atamkeze R.A., Kasmi, Y., Sell, A. F., Akimova, A., Laakmann, S., von Waldow, H. 2025. DOI/link if published.
+"eDNAcheck: Assessing the plausibility of species detections in molecular biodiversity data." Beng, K.C., Atamkeze R.A., Kasmi, Y., Sell, A. F., Akimova, A., Laakmann, S. 2025.
