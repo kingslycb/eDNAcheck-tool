@@ -95,7 +95,7 @@ run_obis_comparison(
     output_name="genus_with_temporal_filter"
 )
 
-7. Contact and citation information
+### Contact and citation information
 Developed as part of marine molecular biodiversity research at the Thünen Institute of Sea Fisheries.
 
 For questions, feedback, or citation:
