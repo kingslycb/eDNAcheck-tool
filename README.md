@@ -1,4 +1,4 @@
-# eDNA_ObisTool
+# eDNA_ObisTool  - an online tool for assessing the plausibility of species detections in marine molecular biodiversity data
 
 ### Anna
 check whether my changes will be commited
