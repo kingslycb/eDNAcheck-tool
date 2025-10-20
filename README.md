@@ -1,15 +1,15 @@
-# eDNA_ObisTool  - online tool to assess plausibility of species detections in molecular data
 
+# eDNA-ObisTool - online tool to assess plausibility of species detections in molecular data
 
-
+----------------------------------------------------------
 
 # About
-The <span style="color: green;">eDNA_ObisTool</span> is an online tool that allows to assess the plausibility of species detections in marine molecular biodiversity data.
-The backend of the eDNA_ObisTool is Python-based. 
+The **eDNA-ObisTool** is an online tool that allows to assess the plausibility of species detections in marine molecular biodiversity data.
+The backend of the **eDNA-ObisTool** is Python-based. 
 
 ### What eDNA_ObisTool does?
 
-eDNA_ObisTool compares observed species or genus occurrences—especially those detected through molecular methods such as environmental DNA (eDNA) or bulk-sample metabarcoding—with reference occurrence data. The reference occurrence data can be from global biodiversity repositories such as the Ocean Biodiversity Information System (OBIS), Global Biodiversity Information Facility (GBIF) or custom datasets. It supports spatial and temporal buffering, enabling flexible and ecologically-informed assessments of molecular biodiversity data plausibility. The tool performs the following:
+**eDNA-ObisTool** compares observed species or genus occurrences—especially those detected through molecular methods such as environmental DNA (eDNA) or bulk-sample metabarcoding—with reference occurrence data. The reference occurrence data can be from global biodiversity repositories such as the Ocean Biodiversity Information System (OBIS), Global Biodiversity Information Facility (GBIF) or custom datasets. It supports spatial and temporal buffering, enabling flexible and ecologically-informed assessments of molecular biodiversity data plausibility. The tool performs the following:
 
 - Loads molecular biodiversity records from user-provided input files.
 - Cleans and standardizes taxonomic, spatial, and temporal information.
@@ -23,14 +23,29 @@ Molecular biodiversity surveys (e.g., eDNA) often reveal unexpected or ambiguous
 - Highlighting range extensions or novel records for further validation.
 - Supporting biodiversity monitoring, conservation decisions, and quality control.
 - Enabling transparent, reproducible comparison with global biodiversity repositories.
+------------------------------------------------------------------
+
+# How to use
+
+The **eDNA-ObisTool** is an online tool and requires no installation. To upload the data for the quality check, following formats are accepted:
+.csv, .xlsx, or .tab.  Required columns: Latitude (or Lat), Longitude (or Lon), Species or Genus. Optionally data can contain Year, Date, or EventDate
+
+------------------------------------------------------------------
+
+# Contact and citation information
+**eDNA-ObisTool** has been developed as part of marine molecular biodiversity research at the Thünen Institute of Sea Fisheries.
+
+For questions, feedback, or citation:
+
+Email: kingsly-chuo.beng@thuenen.de
+GitLab: 
+
+Suggested citation:
+
+"eDNA-ObisTool: Assessing the plausibility of species detections in molecular biodiversity data." Beng, K.C., Atamkeze R.A., Kasmi, Y., Sell, A. F., Akimova, A., Laakmann, S. 2025.
 
 
-
-
-
-
-
-
+<details><summary>Click to expand</summary>
 check whether my changes will be commited
 
 ## Docker 
@@ -135,4 +150,9 @@ For questions, feedback, or citation:
 Email: kingsly-chuo.beng@thuenen.de
 GitLab: 
 Suggested citation:
+
+
+</details>
+------------------------------------------------------------------------------------------
+
 "eDNAcheck: Assessing the plausibility of species detections in molecular biodiversity data." Beng, K.C., Atamkeze R.A., Kasmi, Y., Sell, A. F., Akimova, A., Laakmann, S. 2025.
