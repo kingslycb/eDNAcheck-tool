@@ -34,8 +34,7 @@ The output file (.xlsx) summarizes top occurrence matches per sample. Beside thi
 ------------------------------------------------------------------
 
 # Contact and citation information
-**eDNA-ObisTool** has been developed as part of marine molecular biodiversity research at the Thünen Institute of Sea Fisheries.
-
+**eDNA-ObisTool** has been developed as part of marine molecular biodiversity research at the Thünen Institute of Sea Fisheries. The development was partially supported by BMBF-Project "CREATE-Phase II"
 For questions, feedback, or citation:
 
 Email: kingsly-chuo.beng@thuenen.de
