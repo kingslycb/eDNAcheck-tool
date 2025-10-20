@@ -29,7 +29,7 @@ Molecular biodiversity surveys (e.g., eDNA) often reveal unexpected or ambiguous
 
 The **eDNA-ObisTool** is an online tool and requires no installation. To upload the data for the quality check, following formats are accepted:
 .csv, .xlsx, or .tab.  Required columns: Latitude (or Lat), Longitude (or Lon), Species or Genus. Optionally data can contain Year, Date, or EventDate
-
+The output file (.xlsx) summarizes top occurrence matches per sample. Beside this, an interactive map with occurence matches will be displayed.
 ------------------------------------------------------------------
 
 # Contact and citation information
