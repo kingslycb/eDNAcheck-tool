@@ -153,6 +153,3 @@ Suggested citation:
 
 
 </details>
-------------------------------------------------------------------------------------------
-
-"eDNAcheck: Assessing the plausibility of species detections in molecular biodiversity data." Beng, K.C., Atamkeze R.A., Kasmi, Y., Sell, A. F., Akimova, A., Laakmann, S. 2025.
