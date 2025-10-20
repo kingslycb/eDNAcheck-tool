@@ -3,8 +3,8 @@
 
 
 
-## About
-The eDNA_ObisTool is an online tool that allows to assess the plausibility of species detections in marine molecular biodiversity data.
+# About
+The <span style="color: green;">eDNA_ObisTool</span> is an online tool that allows to assess the plausibility of species detections in marine molecular biodiversity data.
 The backend of the eDNA_ObisTool is Python-based. 
 
 ### What eDNA_ObisTool does?
@@ -17,7 +17,7 @@ eDNA_ObisTool compares observed species or genus occurrences—especially those 
 - Filters and aggregates global matches.
 - Outputs comparison summaries and generates an interactive map.
 
-2. Why it matters
+### Why it matters?
 Molecular biodiversity surveys (e.g., eDNA) often reveal unexpected or ambiguous species detections. eDNAcheck helps contextualize these results by:
 - Verifying ecological plausibility of detected species or genera.
 - Highlighting range extensions or novel records for further validation.
