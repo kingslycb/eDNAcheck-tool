@@ -31,7 +31,7 @@ The **eDNAcheck** is an online tool and requires no installation. To upload the 
 .csv, .xlsx, or .tab.  Required columns: Species and/or Genus name, Latitude (or Lat, decimal degrees), Longitude (or Lon, decimal degrees). Optional columns include: collection/observation year (Year, YYYY) or collection/observation date (Date, YYYY-MM-DD). 
 
 The output file (.xlsx) summarizes top occurrence matches per sample. The number of matches  in the output file is user-defined and ranges from 1 to all available occurrence records. The default is 10. 
-The output is occampanied by an interactive map with occurence matches.
+The output is accompanied by an interactive map with occurence matches.
 
 eDNAcheck provides two validation options:
 
