@@ -33,7 +33,14 @@ The **eDNAcheck** is an online tool and requires no installation. To upload the 
 The output file (.xlsx) summarizes top occurrence matches per sample. The number of matches  in the output file is user-defined and ranges from 1 to all available occurrence records. The default is 10. 
 The output is occampanied by an interactive map with occurence matches.
 
-The **eDNAcheck** offers two possibilities: check the data against global biodiversity repositories (already implemented) or against a custom database (under development). The required format for the custom database will be: Species name, Genus name, Lat, Lon, Year, Collection/observation date, Optional: any other metadata related to the species/genus occurences
+eDNAcheck provides two validation options:
+
+1. Global repository check – compares your data against global biodiversity databases (already implemented).
+1. Custom database check – allows validation against a user-defined database (currently under development).
+
+
+The required format for the custom database will be: Species name, Genus name, Lat, Lon, Year, Collection/observation date, Optional: any other metadata related to the species/genus occurences
+
 ------------------------------------------------------------------
 
 # Contact and citation information
