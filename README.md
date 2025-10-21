@@ -1,15 +1,15 @@
 
-# eDNA-ObisTool - online tool to assess plausibility of species detections in molecular data
+# eDNAcheck - online tool to assess plausibility of species detections in molecular data of marine species
 
 ----------------------------------------------------------
 
 # About
-The **eDNA-ObisTool** is an online tool that allows to assess the plausibility of species detections in marine molecular biodiversity data.
-The backend of the **eDNA-ObisTool** is Python-based. 
+The **eDNAcheck** is an online tool that allows to assess the plausibility of species detections in marine molecular biodiversity data.
+The backend of the **eDNAcheck** is Python-based. 
 
-### What eDNA_ObisTool does?
+### What eDNAcheck does?
 
-**eDNA-ObisTool** compares observed species or genus occurrences—especially those detected through molecular methods such as environmental DNA (eDNA) or bulk-sample metabarcoding—with reference occurrence data. The reference occurrence data can be from global biodiversity repositories such as the Ocean Biodiversity Information System (OBIS), Global Biodiversity Information Facility (GBIF) or custom datasets. It supports spatial and temporal buffering, enabling flexible and ecologically-informed assessments of molecular biodiversity data plausibility. The tool performs the following:
+**eDNAcheck** compares observed species or genus occurrences—especially those detected through molecular methods such as environmental DNA (eDNA) or bulk-sample metabarcoding—with reference occurrence data. The reference occurrence data can be from global biodiversity repositories such as the Ocean Biodiversity Information System (OBIS), Global Biodiversity Information Facility (GBIF) or custom datasets. It supports spatial and temporal buffering, enabling flexible and ecologically-informed assessments of molecular biodiversity data plausibility. The tool performs the following:
 
 - Loads molecular biodiversity records from user-provided input files.
 - Cleans and standardizes taxonomic, spatial, and temporal information.
@@ -27,10 +27,13 @@ Molecular biodiversity surveys (e.g., eDNA) often reveal unexpected or ambiguous
 
 # How to use
 
-The **eDNA-ObisTool** is an online tool and requires no installation. To upload the data for the quality check, following formats are accepted:
-.csv, .xlsx, or .tab.  Required columns: Latitude (or Lat), Longitude (or Lon), Species or Genus. Optionally data can contain Year, Date, or EventDate
-The output file (.xlsx) summarizes top occurrence matches per sample. Beside this, an interactive map with occurence matches will be displayed.
+The **eDNAcheck** is an online tool and requires no installation. To upload the data for the quality check, following formats are accepted:
+.csv, .xlsx, or .tab.  Required columns: Species and/or Genus name, Latitude (or Lat, decimal degrees), Longitude (or Lon, decimal degrees). Optional columns include: collection/observation year (Year, YYYY) or collection/observation date (Date, YYYY-MM-DD). 
 
+The output file (.xlsx) summarizes top occurrence matches per sample. The number of matches  in the output file is user-defined and ranges from 1 to all available occurrence records. The default is 10. 
+The output is occampanied by an interactive map with occurence matches.
+
+The **eDNAcheck** offers two possibilities: check the data against OBIS (already implemented) or against a custom database (under development). The required format for the custom database will be: Species name, Genus name, Lat, Lon, Year, Collection/observation date, Optional: any other metadata related to the species/genus occurences
 ------------------------------------------------------------------
 
 # Contact and citation information
