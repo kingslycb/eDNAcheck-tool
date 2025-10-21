@@ -1,11 +1,11 @@
 
-# eDNAcheck - online tool to assess plausibility of species detections in molecular data of marine species
+# eDNAcheck - online tool to assess plausibility of species detections in molecular-based biodiversity data
 
 ----------------------------------------------------------
 
 # About
-The **eDNAcheck** is an online tool that allows to assess the plausibility of species detections in marine molecular biodiversity data.
-The backend of the **eDNAcheck** is Python-based. 
+The **eDNAcheck** is an online tool that allows to assess the plausibility of species detections in molecular biodiversity data.
+The backend of the **eDNAcheck** is R and Python code provided here. 
 
 ### What eDNAcheck does?
 
@@ -44,7 +44,7 @@ The required format for the custom database will be: Species name, Genus name, L
 ------------------------------------------------------------------
 
 # Contact and citation information
-**eDNA-ObisTool** has been developed as part of marine molecular biodiversity research at the Thünen Institute of Sea Fisheries. The development was partially supported by BMBF-Project "CREATE-Phase II"
+**eDNAcheck** has been developed as part of marine molecular biodiversity research at the Thünen Institute of Sea Fisheries. The development was partially supported by BMBF-Project "CREATE-Phase II"
 
 For questions, feedback, or citation:
 
@@ -52,7 +52,7 @@ Email: kingsly-chuo.beng@thuenen.de
 
 GitLab: 
 
-Suggested citation: "eDNA-ObisTool: Assessing the plausibility of species detections in molecular biodiversity data." Beng, K.C., Atamkeze R.A., Kasmi, Y., Sell, A. F., Akimova, A., Laakmann, S. 2025.
+Suggested citation: "eDNAcheck: Assessing the plausibility of species detections in molecular biodiversity data." Beng, K.C., Atamkeze R.A., Kasmi, Y., Sell, A. F., Akimova, A., Laakmann, S. 2025.
 
 
 <details><summary>Click to expand</summary>
