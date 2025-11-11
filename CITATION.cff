@@ -2,9 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: >-
-  eDNAcheck: Assessing the plausibility of species
-  detections in molecular biodiversity data
+title: eDNAcheck
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -13,18 +11,26 @@ authors:
   - given-names: Kingsly Chuo
     family-names: Beng
     email: kingsly-chuo.beng@thuenen.de
-  - given-names: Rock Atamkeze
-    family-names: Achuo
-    email: atamkezerock@gmail.com
+    affiliation: Thünen-Institut
+  - {}
+  - given-names: ' Achuo '
+    family-names: Rock Atamkeze
   - given-names: Yassine
-    family-names: Kasmi
-    email: yassine.kasmi@thuenen.de
+    family-names: ' Kasmi'
+    affiliation: Thünen-Institut
   - given-names: Anne F.
     family-names: Sell
     email: anne.sell@thuenen.de
+    affiliation: Thünen-Institute
   - given-names: Anna
     family-names: Akimova
-    email: anna.akimova@thuenen.de
+    affiliation: Thünen-Institut
   - given-names: Silke
     family-names: Laakmann
-    email: silke.laakmann@hifmb.de
+    affiliation: HIFMB
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17462775
+abstract: >-
+  eDNAcheck: Assessing the plausibility of species
+  detections in molecular biodiversity data
