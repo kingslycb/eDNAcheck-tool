@@ -159,7 +159,7 @@ Developed as part of marine molecular biodiversity research at the Thünen Insti
 For questions, feedback, or citation:
 Email: kingsly-chuo.beng@thuenen.de
 GitLab: 
-Suggested citation:
+Suggested citation: Beng, K. C., Achuo, R. A., Kasmi, Y., Sell, A. F., Akimova, A., & Laakmann, S. (2025). eDNAcheck: Assessing the plausibility of species detections in molecular biodiversity data (eDNAcheck_v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17462776
 
 
 </details>
