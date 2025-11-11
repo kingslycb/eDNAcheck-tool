@@ -52,8 +52,6 @@ Email: kingsly-chuo.beng@thuenen.de
 
 GitLab: 
 
-Suggested citation: "eDNAcheck: Assessing the plausibility of species detections in molecular biodiversity data." Beng, K.C., Atamkeze R.A., Kasmi, Y., Sell, A. F., Akimova, A., Laakmann, S. 2025.
+Suggested citation: Beng, K. C., Achuo, R. A., Kasmi, Y., Sell, A. F., Akimova, A., & Laakmann, S. (2025). eDNAcheck: Assessing the plausibility of species detections in molecular biodiversity data (eDNAcheck_v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17462776
 
 
-
-</details>
